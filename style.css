@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    font-family: 'Mukta', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+.nav-title{
+    font-size: 1500;
+    
+    font-weight: 45px;
+}
+.prymerry-color{
+    color: #FD6E0A;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+    align-items: center;
+}
+nav li {
+    list-style: none;
+    margin: 50px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+.btn-primary{
+    height: 64px;
+    border-radius: 5px;
+    background-color: #FD6E0A;
+    font-style: normal;
+    color: #FFFFFF;
+    border: 0;
+    padding: 18px 35px;
+    font-weight: 700;
+}
+.banner{
+    margin: 0px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner-subtitle{
+    font-weight: 600;
+    font-size: 45px;
+    color: #474747;
+    margin-bottom: 5px;
+}
+.banner-title{
+    
+    font-size: 50px;
+    color: #474747;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.hed-pera{
+    color: #757575;
+    margin-bottom: 30px;
+}
+.baground{
+    background: #FFF8F3;
+    background-image: url(images/header_bg.png), url(images/developer.png);
+    background-repeat: no-repeat;
+    background-position: bottom right, left;
+}
+
+main{ 
+    max-width: 1140;
+    margin: 0px 150px;
+}
+
+.about-us{
+    background: #FFF8F3;
+    border-radius: 10px;
+    margin-top: 130px;
+    padding: 115px 135px;
+    text-align: center;
+
+}
+.about-us-title{
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    color: #181818;
+}
+.about-us-description{
+    color: #757575;
+    font-size: 18px;
+    margin-bottom: 30px;
+    line-height: 30px;
+
+}
+
+.about-info-containe{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+
+}
+.info-title{
+    color: #757575;
+    font-size: 20px;
+}
+.info-description{
+    font-weight: 700;
+    font-size: 20px;
+    /* line-height: 15px; */
+    color: #474747;
+}
