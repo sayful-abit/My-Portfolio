@@ -147,3 +147,61 @@ main{
     line-height: 28px;
     color: #757575;
 }
+
+.Resume{
+    display: flex;
+    text-align: left;
+    margin-top: 55px;
+    gap: 30px;
+    color: #474747;
+}
+.Education_heading{
+font-weight: 700;
+font-size: 35px;
+line-height: 48px;
+text-align: center;
+color: #181818;
+margin-top: 65px;
+
+}
+
+.Resume_heading{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 41px;
+    color: #474747;
+}
+.CV-btn{
+    margin-top: 50px;
+    border-radius: 5px;
+    background-color: #FD6E0A;
+    color: #FFFFFF;
+    border: 0;
+    padding: 18px;
+    font-weight: 700;
+    margin-left: 450px;
+    width: 100px;
+    height: 20px;
+    
+}
+
+.resume_title{
+    margin-top: 30px;
+}
+
+.resume-subtitle{
+    margin-top: 10;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    color: #757575;
+}
+.resume-description{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #757575;
+    margin-top: 20;
+    margin-bottom: 50px;
+
+}
