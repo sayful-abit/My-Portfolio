@@ -182,15 +182,20 @@ margin-top: 65px;
     margin-left: 450px;
     width: 100px;
     height: 20px;
+    text-decoration: none;
     
 }
 
 .resume_title{
     margin-top: 30px;
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: -20px;
 }
 
 .resume-subtitle{
-    margin-top: 10;
+    
     font-weight: 600;
     font-size: 20px;
     line-height: 27px;
@@ -204,4 +209,20 @@ margin-top: 65px;
     margin-top: 20;
     margin-bottom: 50px;
 
+}
+
+.full-footer{
+
+    background: #FFF8F3;
+    width: auto;
+    height: 500px;
+    left: 0px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.Lets-Connect{
+    display: flex;
+}
+.social_media{
+    display: flex;
 }
