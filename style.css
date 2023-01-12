@@ -1,11 +1,10 @@
 *{
     padding: 0;
     font-family: 'Mukta', sans-serif;
-font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 .nav-title{
     font-size: 1500;
-    
     font-weight: 45px;
 }
 .prymerry-color{
@@ -14,7 +13,7 @@ font-family: 'Open Sans', sans-serif;
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
     align-items: center;
 }
 nav li {
