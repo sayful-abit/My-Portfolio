@@ -13,7 +13,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    padding: 50px 100px;
+    padding: 10px 155px;
     align-items: center;
 }
 nav li {
@@ -71,7 +71,7 @@ main{
 .about-us{
     background: #FFF8F3;
     border-radius: 10px;
-    margin-top: 130px;
+    margin-top: 110px;
     padding: 115px 135px;
     text-align: center;
 
@@ -179,7 +179,7 @@ margin-top: 65px;
     padding: 18px;
     font-weight: 700;
     margin-left: 450px;
-    width: 100px;
+    width: 125px;
     height: 20px;
    
     
